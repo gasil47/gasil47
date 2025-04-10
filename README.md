@@ -5,7 +5,7 @@ Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to sh
 ---
 
 ## 🎮 About Me
-- 🔭 I’m currently working on **immersive Unity projects**, especially in hyper-casual mobile games.
+- 🔭 I’m currently working on **immersive Unity projects** and in hyper-casual mobile games.
 - 🌱 I’m diving deeper into **advanced Unity features**, **C# scripting**, and **game optimization techniques**.
 - 🕹️ My expertise lies in **game mechanics**, **level design**, and **VR/AR development**.
 - 👯 I’m looking to collaborate on **game development projects**, **interactive simulations**, or **AR/VR experiences**.
