@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](Banner-img.png)
 # Hi there 👋, I'm Harshid Gasil!
 
 Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to share my journey in game development and interactive experiences with you.
