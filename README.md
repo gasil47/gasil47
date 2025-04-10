@@ -1,12 +1,13 @@
-![Banner](Banner-img.png)
-# Hi there 👋, I'm Harshid Gasil!
+# Hi there 👋, I'm Gasil47!
 
 Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to share my journey in game development and interactive experiences with you.
 
 ---
 
+![Banner](Banner-img.png)
+
 ## 🎮 About Me
-- 🔭 I’m currently working on **immersive Unity projects** and in hyper-casual mobile games.
+- 🔭 I’m currently working on **immersive Unity projects**, especially in hyper-casual mobile games.
 - 🌱 I’m diving deeper into **advanced Unity features**, **C# scripting**, and **game optimization techniques**.
 - 🕹️ My expertise lies in **game mechanics**, **level design**, and **VR/AR development**.
 - 👯 I’m looking to collaborate on **game development projects**, **interactive simulations**, or **AR/VR experiences**.
@@ -43,15 +44,16 @@ Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to sh
 ---
 
 ## 📈 GitHub Stats
-![Gasil123's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasil123&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasil123&layout=compact&theme=radical)
+![Gasil47's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasil47&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasil47&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect
 - [LinkedIn](http://www.linkedin.com/in/harshidgasil)  
 - [Itch.io](https://gasil123.itch.io)  
-- [GitHub](https://github.com/gasil123)
+- [GitHub](https://github.com/gasil47)
 
 ---
 
