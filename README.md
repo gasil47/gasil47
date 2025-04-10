@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Harhsid Gasil!
+# Hi there 👋, I'm Harshid Gasil!
 
 Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to share my journey in game development and interactive experiences with you.
 
