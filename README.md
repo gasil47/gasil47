@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to share my journey in game development and interactive experiences with you.
 
 ---
-
-//![Banner](Banner-img.png)
+<!-- ![Banner](Banner-img.png) -->
 
 ## 🎮 About Me
 - 🔭 I’m currently working on **immersive Unity projects**, especially in hyper-casual mobile games.
