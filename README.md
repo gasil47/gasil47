@@ -1,9 +1,9 @@
-<!--# Hi there 👋, I'm Harshid Gasil!
+# Hi there 👋, I'm Harshid Gasil!
 
 Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to share my journey in game development and interactive experiences with you.
 
 ---
-<!-- ![Banner](Banner-img.png) 
+<!-- ![Banner](Banner-img.png) -->
 
 ## 🎮 About Me
 - 🔭 I’m currently working on **immersive Unity projects**, especially in hyper-casual mobile games.
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to sh
 
 ---
 
-## 📂 Featured Projects
+<!-- ## 📂 Featured Projects
 
 - **[Escape Traffic: Car Jam Puzzle](https://play.google.com/store/apps/details?id=com.gkgames.trafficjim)**  
   A 3D car traffic sorting game with 40+ levels and creative power-ups.
@@ -54,6 +54,6 @@ Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to sh
 - [Itch.io](https://gasil123.itch.io)  
 - [GitHub](https://github.com/gasil47)
 
----
+--- -->
 
-Thanks for stopping by! 😊 -->
+Thanks for stopping by! 😊 
