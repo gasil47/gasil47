@@ -6,13 +6,12 @@ Welcome to my GitHub profile! As a passionate Unity developer, I'm excited to sh
 <!-- ![Banner](Banner-img.png) -->
 
 ## 🎮 About Me
-- 🔭 I’m currently working on **immersive Unity projects**, especially in hyper-casual mobile games.
+- 🔭 I’m currently working on **immersive Unity projects**, and hyper-casual mobile games.
 - 🌱 I’m diving deeper into **advanced Unity features**, **C# scripting**, and **game optimization techniques**.
 - 🕹️ My expertise lies in **game mechanics**, **level design**, and **VR/AR development**.
 - 👯 I’m looking to collaborate on **game development projects**, **interactive simulations**, or **AR/VR experiences**.
 - 💬 Feel free to ask me about Unity, C#, or anything game-related!
-- 📫 How to reach me: **harshidtnr716@gmail.com**
-- 🌟 Fun fact: I started my game development journey inspired by *Assassin’s Creed: Black Flag*!
+- 📫 How to reach me: **harshidgz@gmail.com**
 
 ---
 
